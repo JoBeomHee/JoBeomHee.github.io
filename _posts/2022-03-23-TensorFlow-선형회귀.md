@@ -1,3 +1,13 @@
+---
+title: 1에서 100까지 값 예측하기
+author: BeomBeomJoJo
+date: 2022-03-23 11:33:00 +0800
+categories: [Tensorflow]
+tags: [Tensorflow]
+math: true
+mermaid: true
+---
+
 ## **1에서 100까지 값 예측하기**
 
 ## **소개**
