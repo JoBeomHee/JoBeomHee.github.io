@@ -82,7 +82,7 @@ theme_mode: dark  # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/avatar.jpg'
+avatar: '/assets/img/Profile/avatar.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
@@ -156,7 +156,7 @@ defaults:
       layout: page
       permalink: /:title/
   - scope:
-      path: assets/img/favicons
+      path: assets/img/Profile
     values:
       swcache: true
   - scope:
