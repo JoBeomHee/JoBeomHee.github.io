@@ -35,7 +35,7 @@ mermaid: true
 
 <br/>
 
-# VS Code  | Markdown PDF Extension 소개 및 사용 방법
+# **VS Code  | Markdown PDF Extension 소개 및 사용 방법**
 ## **2. 변환 대상 **"AutoTest.md"** 파일 열기**
 
 ![3](https://user-images.githubusercontent.com/22911504/160086735-9b56a74f-5448-4bbb-8ca8-be204722de19.png)
@@ -64,8 +64,6 @@ mermaid: true
 <br/>
 
 ## **6. 변환된 PDF 파일 내용 확인**  
-* 원본 .md 파일 : [AutoPDFTest.md](/uploads/e0a058b2a61e565b159f10669086dbaf/AutoTest.md)
-* 변환 된 .pdf 파일 : [AutoPDFTest.pdf](/uploads/496bc71a197fd8e078cd05579a0863e9/AutoTest.pdf)  
   
 ![7](https://user-images.githubusercontent.com/22911504/160086744-cca0736c-2d79-4e1e-abc1-f76b50a210f8.png)
 
