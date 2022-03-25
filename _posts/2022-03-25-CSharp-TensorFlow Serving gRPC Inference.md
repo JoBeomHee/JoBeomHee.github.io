@@ -20,7 +20,7 @@ mermaid: true
 <br/>
 
 ## **개발 환경**
-* **.NET 버전 : .NET 6****
+* **.NET 버전 : .NET 6**
 * **개발 도구 : Visual Studio 2022**
 * **사용 Nuget Package : Tensorflow-serving-client, Newtonsoft.json**
 
