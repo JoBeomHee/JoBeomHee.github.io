@@ -1,9 +1,9 @@
 ---
-title: TensorFlow - 데이터 분리
+title: TensorFlow 데이터 분리
 author: BeomBeomJoJo
-date: 2022-03-25 21:33:00 +0800
-categories: [TensorFlow]
-tags: [TensorFlow]
+date: 2022-03-25 12:33:00 +0800
+categories: [딥러닝]
+tags: [딥러닝]
 math: true
 mermaid: true
 ---
