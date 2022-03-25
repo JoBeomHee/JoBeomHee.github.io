@@ -118,6 +118,7 @@ Console.WriteLine();
 
 # **배열**
 * 선언 줄에서 배열을 초기화할 때는 **간결한 구문** 을 사용합니다.
+  
 ```csharp
 // Preferred syntax. Note that you cannot use var here instead of string[].
 string[] vowels1 = { "a", "e", "i", "o", "u" };
@@ -135,6 +136,7 @@ voewls3[1] = "e";
 
 # **대리자**
 * 대리자 형식의 인스턴스를 만들려면 **간결한 구문** 을 사용합니다.
+  
 ```csharp
 // First, in class Program, define the delegate type and a method that
 // has a matching signature.
