@@ -8,8 +8,6 @@ math: true
 mermaid: true
 ---
 
-# MSDN | C# 코딩 규칙(C# 프로그래밍 가이드)
-
 <br/>
 
 # **참조**

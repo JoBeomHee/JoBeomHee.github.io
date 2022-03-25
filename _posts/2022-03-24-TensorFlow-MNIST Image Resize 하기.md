@@ -8,8 +8,6 @@ math: true
 mermaid: true
 ---
 
-# **MNIST 모델별 Image Resize 하기**
-
 ## **소개**
 안녕하세요. <br/>
 오늘은 TensorFlow & Keras 에서 MNIST 모델을 Load 하여 네트워크 별로 이미지 Resize 하는 방법에 대해서 알려 드리려고 합니다. <br/>

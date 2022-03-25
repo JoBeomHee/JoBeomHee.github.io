@@ -8,8 +8,6 @@ math: true
 mermaid: true
 ---
 
-# Nuget Package 설정 파일 packages.config vs PackageReference 차이점 (VS 2017 이상)
-
 <br/>
 
 # **소개**
