@@ -2,8 +2,8 @@
 title: Python gRPC Server/Client 구현
 author: BeomBeomJoJo
 date: 2022-03-27 12:33:00 +0800
-categories: [TensorFlow]
-tags: [TensorFlow]
+categories: [Python, gRPC]
+tags: [Python, gRPC]
 math: true
 mermaid: true
 ---
