@@ -19,6 +19,7 @@ mermaid: true
 * **using 지시문이 포함되지 않는 간단한 예제** 에서 **네임스페이스 한정자** 를 사용합니다.
 * 프로젝트에서 네임스페이스를 기본적으로 가져오는 경우에는 해당 네임스페이스의 이름을 정규화하지 않아도 됩니다.
 * 정규화된 이름은 한 줄에 표시하기가 너무 길면 다음 예제에 나와 있는 것 처럼 점(.) 으로 분할할 수 있습니다.
+
 ```csharp
 var currentPerformanceCounterCategory = new System.Diagnostics.
                                             PerformanceCounterCategory();
@@ -33,6 +34,7 @@ var currentPerformanceCounterCategory = new System.Diagnostics.
 * 연속 줄이 자동으로 들여쓰기 되지 않으면 **탭 정지 하나(공백4개) 만큼** 들여 씁니다.
 * **메서드 정의와 속성 정의 간에는 빈 줄을 하나 이상** 추가합니다.
 * 다음 코드에 나와 있는 것 처럼 **괄호** 를 사용하여 식의 절을 명확하게 구분합니다.
+
 ```csharp
 if((val1 > val2) && (val1 > vale))
 {
@@ -56,10 +58,13 @@ if((val1 > val2) && (val1 > vale))
 
 # **문자열 데이터 형식**
 * **문자열 보간** 을 사용하여 짧은 문자열을 연결합니다.
+
 ```csharp
 string displayName = $"{nameList[n].Lastname}, {nameList[n].FirstName}";
 ```
+
 * 특히 많은 양의 텍스트를 사용할 때, 문자열을 루프에 추가하려면 **StringBuilder 객체** 를 사용합니다.
+
 ```csharp
 var phrase = "lalalalalalalalalalalalalalalalalalalalalalalalalalalalalala";
 var manyPhrases = new StringBuilder();
@@ -73,6 +78,7 @@ for(var index = 0; index < 10000; index++)
 
 # **암시적으로 형식화한 지역 변수**
 * 오른쪽에서 할당 된 변수 형식이 명확하거나 정확한 형식이 중요하지 않으면 **[+지역 변수에 대해 암시적 형식+]** 을 사용
+
 ```csharp
 // When the type of a variable is clear from the context, use var
 // in the declaration.
@@ -89,6 +95,7 @@ int var4 = ExampleClass.ResultSoFar();
 ```
 * **dynamic** 대신 `var`를 사용하지 않습니다.
 * for루프의 루프 변수 형식을 결정하려면 **암시적 형식** 을 사용합니다.
+
 ```csharp
 var phrase = "lalalalalalalalalalalalalalalalalalalalalalalalalalalalalala";
 var manyPhrases = new StringBuilder();
@@ -99,6 +106,7 @@ for(var index = 0; index < 10000; index++)
 ```
 * **foreach** 루프의 루프 변수 형식을 결정하기 위해 **[-암시적 형식을 사용하지 않습니다.-]**
 * 다음 예제에서는 `foreach` 문에서 명시적 형식을 사용합니다.
+
 ```csharp
 foreach(char ch in laugh)
 {
@@ -161,6 +169,7 @@ Del exampleDel1 = new Del(DelMethod);
 
 # **예외 처리의 try-catch 및 using 문**
 * 대부분의 예외 처리는 **try-catch** 문을 사용합니다.
+
 ```csharp
 static string GetValueFromArray(string[] array, int index)
 {
@@ -175,6 +184,7 @@ static string GetValueFromArray(string[] array, int index)
     }
 }
 ```
+
 * C# using 문을 사용하면 코드를 간소화 할 수 있습니다.
 * `finally` 블록의 코드가 Dispose 메서드 호출뿐인 try-finally 문이 있는 경우에는 **using** 문을 대신 사용합니다.
 
@@ -204,6 +214,7 @@ using (Font font2 = new Font("Arial", 10.0f))
 
 # **&& 및 || 연산자**
 * 예외를 방지하고 불필요한 비교를 건너뛰어 성능을 개선하려면 **& 대신 &&를 사용하고 | 대신 ||를 사용** 합니다.
+
 ```csharp
 Console.Write("Enter a dividend: ");
 var divident = Convert.ToInt32(Console.ReadLine());
@@ -230,14 +241,17 @@ else
 
 # **New 연산자**
 * 암시적 형식이 포함된 간결한 형태의 개체 인스턴스화를 사용합니다.
+
 ```csharp
 var instance1 = new ExampleClass();
 ```
 * 위의 줄은 다음 선언과 동일합니다.
+  
 ```csharp
 ExampleClass instance2 = new ExampleClass();
 ```
 * 객체를 간편하게 만들려면 **객체 이니셜라이저** 를 사용합니다.
+
 ```csharp
 // Object initializer.
 var instance3 = new ExampleClass { Name = "Desktop", ID = 123, Location = "Seoul", Age = 29 };
@@ -254,6 +268,7 @@ instance4.Age = 29;
 
 # **이벤트 처리**
 * 나중에 제거할 필요가 없는 이벤트 처리기를 정의하는 경우 **람다 식** 을 사용합니다.
+
 ```csharp
 public Form2()
 {
@@ -264,6 +279,7 @@ public Form2()
         }
 }
 ```
+
 ```csharp
 // Using a lambda expression shortens the following traditional definition.
 public Form1()
@@ -280,12 +296,15 @@ void Form1_Click(object sender, EventArgs e)
 
 # **LINQ 쿼리**
 * 쿼리 변수에 **의미 있는** 이름을 사용합니다.
+
 ```csharp
 var seoulCustomers = from customer in customers
                      where customer.City == "Seoul"
                      select customer.name;
 ```
+
 * 별칭을 사용하여 익명 형식의 **속성 이름 대/소문자를** 올바르게 표시합니다.(파스칼식 대/소문자 사용)
+
 ```csharp
 var localDistributors =
     from customer in customers
@@ -294,19 +313,23 @@ var localDistributors =
 ```
 * 결과의 속성 이름이 모호하면 속성 이름을 바꿉니다.
 * 예를 들어 쿼리에서 고객 이름과 배포자 ID를 반환하는 경우 결과에서 이러한 정보를 `Name` 및 `ID` 로 유지하는 대신 `Name`은 고객의 이름이고, `ID`는 배포자의 ID임을 **명확하게 나타내도록 이름을 바꿉니다.**
+  
 ```csharp
 var localDistributors2 =
     from customer in customers
     join distributor in distributors on customer.City equals distributor.City
     select new { CustomerName = customer.Name, DistributorID = distributor.ID };
 ```
+
 * 쿼리 변수 및 범위 변수의 선언에서 **암시적 형식** 을 사용합니다.
+
 ```csharp
 var seoulCustomers = from customer in customers
                      where customer.City == "Seoul"
                      select customer.Name;
 ```
 * 내부 컬렉션에 액세스 하려면 **join** 절 대신 여러 `from` 절을 사용합니다.
+
 ```csharp
 // Use a compound from to access the inner sequence within each elemnet.
 var scoreQuery = from student in students
