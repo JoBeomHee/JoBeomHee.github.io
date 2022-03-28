@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://jobeomhee.github.io/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/archives/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/about/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/.Csharp-Google-Coding-Convention/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/.NET5-Migration/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/Python-gRPC-ServerClient/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-traintestSplit/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/CSharp-C-Convention/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/VSCode-Markdown-PDF-Extension/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EB%A6%AC/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-1.x-2.x-%EB%B2%84%EC%A0%84-%EC%B0%A8%EC%9D%B4/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/Keras-%EB%AA%A8%EB%8D%B8/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/page2/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/page3/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/CSharp-TensorFlow-Serving-gRPC-Inference/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/VSCode-Auto-Markdown-Toc-Extension(%EB%AA%A9%EC%B0%A8)-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/c/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/tensorflow/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/devexpress/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/grpc/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/wpf/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/net6/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/keras/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/vscode/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/c/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/convention/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/net5/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/net6/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/nuget-package/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/devexpress/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/wpf/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/python/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/grpc/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/tensorflow/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/keras/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/vscode/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/categories/%EB%94%A5%EB%9F%AC%EB%8B%9D/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/convention/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/net5/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/nuget-package/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/python/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/%EB%94%A5%EB%9F%AC%EB%8B%9D/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/tags/%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/Keras-%EB%AA%A8%EB%8D%B8-%EC%83%9D%EC%84%B1-%EA%B5%AC%EC%A1%B0/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/DevExpress-ChartControl-StackBar/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/DevExpress-ChartControl-Annotation2/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/DevExpress-ChartControl-Annotation/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/DDD-%EC%97%90%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/DDD-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%A3%BC%EB%8F%84-%EC%84%A4%EA%B3%84-copy/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/CSharp-Server-Client-gRPC/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/CSharp-Nuget-Package-%EC%84%A4%EC%A0%95-%ED%8C%8C%EC%9D%BC-packages.config-vs-PackageReference-%EC%B0%A8%EC%9D%B4%EC%A0%90/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-MNIST-Image-Resize-%ED%95%98%EA%B8%B0/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://jobeomhee.github.io/posts/TensorFlow-Validation-%EC%B6%94%EA%B0%80/</loc>
+  <lastmod>2022-03-28T11:14:46+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
