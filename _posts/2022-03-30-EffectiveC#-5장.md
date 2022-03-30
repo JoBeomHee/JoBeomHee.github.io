@@ -24,6 +24,7 @@ mermaid: true
 * **문자열 보간 기능('$')** 을 이용하여 생성된 문자열은 단순 문자열일 수도 있지만, **FormattableString** 을 상속할 타입일 수도 있습니다.
 * **FormattableString** 은 문자열의 연결을 돕는 기능이 있어, 문화권과 언어를 지정하여 문자열을 생성하는데 활용할 수 있습니다.
 * **아래 예제에서 var로 선언하면 변수 vs는 string 객체가 될 수도 있겠지만, FormattableString을 상속한 타입의 객체가 될 수도 있습니다.**
+
 ```csharp
 string s = $"It's the {DateTime.Now.Day} of the {DateTime.Now.Month} month";
 
@@ -38,6 +39,7 @@ FormattableString fs = $"It's the {DateTime.Now.Day} of the {DateTime.Now.Month}
 ## **2. FormattableString 활용**
 * **FormattableString 객체** 라면 컴퓨터에서 지정된 문화권을 고려하여 문자열을 생성할 수 있습니다.
 * **예를들어, 소수를 출력할 때 미국이라면 소수점 기호 '.', 유럽 대부분의 국가라면 소수점 기호 ',' 가 적용되도록 구현할 수 있습니다.**
+
 ```csharp
 using System;
 using System.Globalization;
@@ -65,6 +67,7 @@ namespace GlobalString
 ```
 
 * **실행 결과**
+
 ```
 3.1415
 3,1415

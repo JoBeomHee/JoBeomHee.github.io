@@ -23,6 +23,7 @@ mermaid: true
 * 안정적인 코드를 작성하려는 경우, 우선 is 연산자로 형변환 유무 확인 후 실제 형변환을 수행하도록 코드를 작성할 수도 있습니다.
 
 ## **1.1. as 형변환 예제**
+
 ```csharp
 object o = Factory.GetObject(); 
 
@@ -40,6 +41,7 @@ else
 ```
 
 ## **1.2. cast 연산자 예제**
+
 ```csharp
 object o = Factory.GetObject(); 
 
@@ -75,6 +77,7 @@ catch (InvalidCastException)
 
 ## **2.3. 사용자 정의 연산자(user-defined type)의 cast가 실패하는 경우**
 * 다음 예제는 SecondType에서 implicit으로 사용자 정의 연산자를 정의한 예제입니다.
+
 ```csharp
 public class SecondType
 {
@@ -112,6 +115,7 @@ catch (InvalidCastException)
    // report the conversion failure.
 }
 ```
+
 * 위의 형 변환은 **둘 다 실패합니다.**
 * **첫 번째 버전** 에서 as는 런타임의 타입으로 결정이 되므로, 런타임에 o가 SecondType이므로 MyType 또는 MyType에서 파생된 클래스가 아니므로 실패하게 됩니다.
 * 사용자 정의 연산자가 존재 하기는 하지만, **as 연산자는 사용자 정의 연산자를 허용하지 않기 때문에 실패합니다.**

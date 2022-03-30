@@ -57,6 +57,7 @@ mermaid: true
   * **Func<>** : 여러 개의 매개변수를 받아 특정 타입의 단일 결과값을 반환하는 델리게이트
   * **Action<>** : 여러 개의 매개변수를 받지만 결과값의 타입이 void인 델리게이트
 * LINQ는 이러한 개념을 기반으로 만들어 졌습니다.
+
 ```csharp
 List<int> numbers = Enumerable.Range(1,200).ToList();
  
@@ -66,6 +67,7 @@ var test = numbers.TrueForAll(n => n < 50);
 numbers.RemoveAll(n => n % 2 == 0);
 numbers.ForEach(item => Console.WriteLine(item));
 ```
+
 * Find() 메서드는 **Predicate\<int>** 형식의 델리게이트를 사용해서 리스트 내에 포함된 요소에 대하여 테스트를 수행합니다.
 * TrueForAll() 메서드 또한 비슷한 방법으로 동작하는데, 각 요소를 개별적으로 테스트하되 모든 항목이 테스트를 통과할 경우에만 True를 반환합니다.
 * RemoveAll() 메서드는 델리게이트에서 정의한 테스트를 통과한 항목들을 리스트에서 제거합니다.
@@ -77,6 +79,7 @@ numbers.ForEach(item => Console.WriteLine(item));
 # **4. 멀티캐스트란?**
 * 하나의 델리게이트가 하나의 메서드 호출을 래핑하지 않고 두 개 이상의 메서드를 래핑하여 호출하는 것을 말합니다.
 * 예를 들어, Sum 메서드를 참조하는 델리게이트가 있는데, Minus 메서드를 호출하기 위해 다른 델리게이트를 또 만들지 않고, Sum 메서드를 참조하는 델리게이트에 Minus 메서드를 추가하는 것을 의미합니다.
+
 ```csharp
 using System;
 
@@ -118,6 +121,7 @@ namespace ConsoleApp6
 * **[-델리게이트는 어떤 예외도 잡지 않으며, 따라서 예외가 발생하면 함수 호출 과정이 중단됩니다.-]**
 
 ## **5.2. 주의 2 : 마지막 호출 대상 함수의 반환값만이 델리게이트의 반환값이다.**
+
 ```csharp
 List<ComplicatedClass> container = new List<ComplicatedClass>();
 
@@ -133,7 +137,9 @@ public void LengthOperation(Func<bool> pred)
     }
 }
 ```
+
 * 위의 LengthOperation 메서드를 멀티캐스트 델리게이트로 사용하면 문제가 발생합니다.
+
 ```csharp
 Func<bool> cp = () => CheckWithUser();
 cp += () => CheckWithSystem();
@@ -142,6 +148,7 @@ c.LengthOperation(cp);
 * 델리게이트의 반환값은 체인 마지막으로 호출된 함수의 반환값이 되며, 다른 반환값은 모두 무시됩니다.
 * 따라서 위의 예제의 경우 CheckWithUser() 의 반환값은 무시됩니다.
 * 이러한 문제를 해결하려면, 델리게이트에 포함된 호출 대상 콜백 함수를 직접 다뤄야 합니다.
+
 ```csharp
 public void LengthOperation2(Func<bool> pred)
 {
@@ -157,6 +164,7 @@ public void LengthOperation2(Func<bool> pred)
     }
 }
 ```
+
 * 위처럼 코드를 작성하면 델리게이트에 추가된 개별 메서드가 true를 반환하는 경우에만 다음 메서드에 대한 호출을 이어갈 수 있습니다.
 
 <Br>
