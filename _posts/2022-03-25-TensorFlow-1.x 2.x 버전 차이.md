@@ -9,9 +9,9 @@ mermaid: true
 ---
 
 ## **참조**
-* https://www.tensorflow.org/guide/migrate?hl=ko#20%EC%97%90_%EB%A7%9E%EB%8F%84%EB%A1%9D_%EC%BD%94%EB%93%9C_%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0
-* https://dk-kang.tistory.com/entry/Tensorflow-1%EB%B2%84%EC%A0%84-vs-Tensorflow-2%EB%B2%84%EC%A0%84
-* http://mcheleplant.blogspot.com/2019/03/tensorflow.html
+* [참고 사이트](https://www.tensorflow.org/guide/migrate?hl=ko#20%EC%97%90_%EB%A7%9E%EB%8F%84%EB%A1%9D_%EC%BD%94%EB%93%9C_%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
+* [참고 사이트](https://dk-kang.tistory.com/entry/Tensorflow-1%EB%B2%84%EC%A0%84-vs-Tensorflow-2%EB%B2%84%EC%A0%84)
+* [참고 사이트](http://mcheleplant.blogspot.com/2019/03/tensorflow.html)
 
 <br/>
 

@@ -12,8 +12,8 @@ mermaid: true
 ![1](https://user-images.githubusercontent.com/22911504/160802390-fd482e2b-172c-4db3-a5e8-de93ddf84ce0.png)
 
 # **1. 참조**
-* https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/reference-types
-* https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/types/boxing-and-unboxing
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/csharp/language-reference/keywords/reference-types)
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/types/boxing-and-unboxing)
 
 <br>
 <br>

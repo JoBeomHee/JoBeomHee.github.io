@@ -9,9 +9,9 @@ mermaid: true
 ---
 
 ## **참조**
-* https://grpc.io/docs/languages/csharp/dotnet/
-* https://narup.tistory.com/124
-* https://narup.tistory.com/126
+* [참고 사이트](https://grpc.io/docs/languages/csharp/dotnet/)
+* [참고 사이트](https://narup.tistory.com/124)
+* [참고 사이트](https://narup.tistory.com/126)
 
 <br/>
 

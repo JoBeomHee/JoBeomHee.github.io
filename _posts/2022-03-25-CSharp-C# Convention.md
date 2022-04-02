@@ -11,7 +11,7 @@ mermaid: true
 <br/>
 
 # **참조**
-* https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/inside-a-program/coding-conventions
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
 <br/>
 

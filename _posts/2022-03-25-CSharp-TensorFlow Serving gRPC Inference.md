@@ -9,8 +9,8 @@ mermaid: true
 ---
 
 ## **참조**
-* https://developers.google.com/protocol-buffers/docs/csharptutorial
-* https://github.com/figroc/tensorflow-serving-client
+* [참고사이트](https://developers.google.com/protocol-buffers/docs/csharptutorial)
+* [참고 사이트](https://github.com/figroc/tensorflow-serving-client)
 
 <br/>
 

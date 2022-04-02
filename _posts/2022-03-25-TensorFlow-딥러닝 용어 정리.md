@@ -9,7 +9,7 @@ mermaid: true
 ---
 
 ## **참조**
-* https://davinci-ai.tistory.com/20
+* [참고 사이트](https://davinci-ai.tistory.com/20)
 
 <br/>
 

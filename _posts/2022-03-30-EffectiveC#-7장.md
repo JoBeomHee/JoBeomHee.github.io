@@ -12,10 +12,10 @@ mermaid: true
 ![1](https://user-images.githubusercontent.com/22911504/160802390-fd482e2b-172c-4db3-a5e8-de93ddf84ce0.png)
 
 # **참조**
-* https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/delegates/
-* https://docs.microsoft.com/ko-kr/dotnet/api/system.func-2?view=net-5.0
-* https://docs.microsoft.com/ko-kr/dotnet/api/system.action-1?view=net-5.0
-* https://docs.microsoft.com/ko-kr/dotnet/api/system.predicate-1?view=net-5.0
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/delegates/)
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/api/system.func-2?view=net-5.0)
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/api/system.action-1?view=net-5.0)
+* [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/api/system.predicate-1?view=net-5.0)
 
 <Br>
 <Br>
