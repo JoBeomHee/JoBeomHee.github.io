@@ -1,5 +1,5 @@
 ---
-title: Effective C# 7장. 델리게이트를 이용하여 콜백을 표현하라.
+title: Effective C# 9장. 박싱과 언박싱을 최소화하라.
 author: BeomBeomJoJo
 date: 2022-03-30 12:33:00 +0800
 date: 2022-03-30 12:33:00 +0800
