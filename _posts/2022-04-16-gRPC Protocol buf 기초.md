@@ -1,5 +1,5 @@
 ---
-title: gRPC 프로토콜 버퍼 기초 - 메시지 정의
+title: gRPC 프로토콜 버퍼 기초
 author: BeomBeomJoJo
 date: 2022-04-16 12:33:00 +0800
 date: 2022-04-16 12:33:00 +0800

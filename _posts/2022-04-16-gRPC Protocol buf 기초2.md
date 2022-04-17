@@ -1,8 +1,8 @@
 ---
 title: gRPC 프로토콜 버퍼 기초 - 메시지 정의 2
 author: BeomBeomJoJo
-date: 2022-04-16 12:33:00 +0800
-date: 2022-04-16 12:33:00 +0800
+date: 2022-04-16 13:33:00 +0800
+date: 2022-04-16 13:33:00 +0800
 categories: [gRPC, protobuf]
 tags: [gRPC, protobuf]
 math: true
@@ -25,7 +25,7 @@ mermaid: true
   * uint63 : 변수 길이 인코딩시 사용
   * sint32 : 변수 길이 인코딩시 사용, 부호있는 값
   * sint64 : 변수 길이 인코딩시 사용. 부호 있는 값
-  * boo : 일반적으로 true 나 false로 표시되는 두 가지 가능한 값을 나타내는 값 
+  * bool : 일반적으로 true 나 false로 표시되는 두 가지 가능한 값을 나타내는 값 
   * enum : 이름이 있는 값의 집합을 나타내는 값
   * string : 문자열은 항상 UTF-8 인코딩이거나 7비트 ASCII 이어야 함
   * bytes : 임의의 바이트 배열을 포함
