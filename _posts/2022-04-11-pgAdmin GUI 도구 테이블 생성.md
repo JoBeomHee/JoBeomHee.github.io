@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **목적**
 * PostgreSQL 을 Docker Container 로 실행한 후, PostgreSQL GUI 도구인 pgAdminGUI 를 이용하여 테스트 진행할 테이블 생성 및 데이터 추가 합니다.
 

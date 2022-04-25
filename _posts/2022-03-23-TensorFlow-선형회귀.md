@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **소개**
 안녕하세요. TensorFlow & Keras 를 이용하여 간다한 선형회귀 모델을 작성 후 <br/>
 1에서 100까지 값 즉, y=ax+b 의 1차 함수를 예측하는 파이썬 코드를 작성해 보았습니다. <br/>
@@ -84,3 +86,5 @@ Epoch 500/500
 * 시각 자료로 확인 결과 **학습, 검증** 2개의 데이터 값이 거의 유사한 것을 확인할 수 있습니다.
 
 ![결과값](https://user-images.githubusercontent.com/22911504/159668477-37de1db2-7f84-4d18-ac52-3648ed989aa9.png)
+
+{% include adsense.html %}

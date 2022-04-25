@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 # VS Code | Auto Markdown Toc Extension(목차) 소개 및 사용 방법
 
 # **참조**
@@ -174,3 +176,5 @@ mermaid: true
 #### 부제목 3.1.1
 * 부제목 3.1.1의 내용입니다.
 ```
+
+{% include adsense.html %}

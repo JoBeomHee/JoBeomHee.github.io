@@ -10,6 +10,8 @@ mermaid: true
 
 <br/>
 
+{% include adsense.html %}
+
 # **참조**
 * [참고 사이트](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 
@@ -337,3 +339,5 @@ var scoreQuery = from student in students
                  where score > 90
                  select new { Last = student.Lastname, score };
 ```
+
+{% include adsense.html %}

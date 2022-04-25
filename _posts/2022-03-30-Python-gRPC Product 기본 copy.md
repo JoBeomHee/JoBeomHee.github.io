@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **목적**
 * ProductInfo 서비스 관련 Proto 파일을 생성합니다.
 * 생성된 Proto 파일을 토대로, Python gRPC Server/Client 코드 작성 진행하여 gRPC 통신 테스트 진행하였습니다.
@@ -339,3 +341,5 @@ get product: response id: "1b1245fd-b012-11ec-9111-9cb6d0fbe574"name: "Apple iPh
 description: "Meet Apple iPhone 11. All-new dual-camera system with Ultra Wide and Night mode."
 price: 699.0
 ```
+
+{% include adsense.html %}

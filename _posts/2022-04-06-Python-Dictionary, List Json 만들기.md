@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **소개**
 * 오늘은 파이썬에서 Dictionary 타입으로 이루어진 데이터를 Json 파일로 만드는 방법에 대해서 알려 드리려고 합니다.
 * 해당 문법을 익히게 되면, Json 파일을 다룰 때 매우 유용 할거라고 생각합니다.

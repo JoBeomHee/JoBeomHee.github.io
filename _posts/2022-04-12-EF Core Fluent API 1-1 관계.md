@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고 사이트](https://www.entityframeworktutorial.net/efcore/configure-one-to-one-relationship-using-fluent-api-in-ef-core.aspx)
 

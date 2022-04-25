@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참조 블로그](https://xeppetto.github.io/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4/WSL-and-Docker/15-Docker-PostGreSQL/)
 * [에러 참조](https://github.com/sameersbn/docker-postgresql/issues/112)

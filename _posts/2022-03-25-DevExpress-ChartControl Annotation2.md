@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **DevExpress Chart 기능 POC - Annotation 점선 표시 기능**
 * DevExpress Chart Control 에서 막대바 중간에 점선 표시 가능한지 테스트 진행합니다.
 

@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **소개**
 * 앞서 TensorFlow 학습 예제코드는 numpy 에서 직접 데이터를 손으로 잘라서 사용했습니다.
 * 하지만, 사이킷 런에서는 이미 잘 구현된 **train_test_split** 함수를 제공해 주고 있습니다.

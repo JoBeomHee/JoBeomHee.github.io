@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **소개**
 * 안녕하세요. 요새 설계에 대해서 관심을 갖고, 개발자에게 설계는 선택이 아닌 필수라는 사실을 알게 되어서 **HeadFirst 디자인패턴** 책을 구입하여 틈틈이 학습을 하고 있습니다.
 * 학습하여 정리한 코드를 정리합니다.
@@ -209,3 +211,5 @@ public class MallardDuck : Duck
 날고 있어요!
 꽥
 ```
+
+{% include adsense.html %}

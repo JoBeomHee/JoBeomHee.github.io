@@ -8,7 +8,7 @@ math: true
 mermaid: true
 ---
 
-<br/>
+{% include adsense.html %}
 
 # **소개**
 * **packages.config** 와 **PackageReference** 의 차이점을 알아봅니다.
@@ -116,3 +116,5 @@ mermaid: true
 * **PackageReference** 는 미래이며, **packages.config** 에 비해 많은 이점이 있습니다.
 * **packages.config** 에서 **PcakageReference** 로 마이그레이션 할 수 있습니다.
 * **다만 아직은 개발 과정에 있어 기본 패키지, 예제 구성 파일을 포함하는 Unicorn과 같은 Sitecore 모듈에는 제한사항이 있습니다.**
+
+{% include adsense.html %}

@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **DevExpress Chart 기능 POC - Stack Bar Chart**
 * DevExpress Chart 중 Bart 차트에서 Stack Bar 차트 POC 진행합니다.
 

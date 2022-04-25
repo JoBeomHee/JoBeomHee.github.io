@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고 사이트](https://www.tensorflow.org/guide/migrate?hl=ko#20%EC%97%90_%EB%A7%9E%EB%8F%84%EB%A1%9D_%EC%BD%94%EB%93%9C_%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0)
 * [참고 사이트](https://dk-kang.tistory.com/entry/Tensorflow-1%EB%B2%84%EC%A0%84-vs-Tensorflow-2%EB%B2%84%EC%A0%84)
@@ -122,3 +124,5 @@ def add(a, b):
 * 그래서 필요에 따라서 우리가 만든 코드에 저장된 함수를 빠르게 부를 수 있고, 불러진 함수는 보다 빠르게 처리해줌으로써 속도를 높여주고 있습니다.
 
 <br/>
+
+{% include adsense.html %}

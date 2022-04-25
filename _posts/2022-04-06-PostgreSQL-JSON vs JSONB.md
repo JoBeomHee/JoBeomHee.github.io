@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고 블로그](https://americanopeople.tistory.com/300)
 * [참고 블로그](https://www.postgresql.org/docs/9.6/datatype-json.html)

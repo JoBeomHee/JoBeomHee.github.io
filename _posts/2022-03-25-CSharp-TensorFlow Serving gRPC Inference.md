@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고사이트](https://developers.google.com/protocol-buffers/docs/csharptutorial)
 * [참고 사이트](https://github.com/figroc/tensorflow-serving-client)
@@ -153,3 +155,5 @@ All values: [ 3.8007954e-11, 5.7989e-07, 1.9819613e-08, 0.031727865, 0.000404602
 ```
 
 <br/>
+
+{% include adsense.html %}

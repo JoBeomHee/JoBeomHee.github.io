@@ -9,6 +9,7 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
 
 ## **참조**
 * [참고 사이트](https://www.entityframeworktutorial.net/efcore/fluent-api-in-entity-framework-core.aspx)

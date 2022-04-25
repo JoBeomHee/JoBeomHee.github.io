@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **목적**
 * 앞서 TensorFlow Validation 코드에서는 데이터를 분리하지 않고 일일이 사용했습니다.
 * 이번에는 데이터를 일일이 쓰지 않고, 좀 더 많은 데이터를 잘라서 사용해 보도록 하겠습니다.
@@ -160,3 +162,5 @@ mse : [5.7480065152049065e-09, 5.7480065152049065e-09, -1364.806884765625]
 ```
 
 ![결과값2](https://user-images.githubusercontent.com/22911504/160124378-015fbbb7-066e-4151-a07f-ce02c26f0a77.png)
+
+{% include adsense.html %}

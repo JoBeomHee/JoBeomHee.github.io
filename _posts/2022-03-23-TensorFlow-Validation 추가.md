@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **소개**
 지난번 앞에서 모델을 훈련 시킬 때 fit 함수를 이용하여 검증값을 test로 하였습니다. <br/>
 그러나 엄밀히 따지면, 훈련셋에 검증값이 들어가고 그 검증값으로 다시 테스트를 진행한다는 것은 **평가에 검증값이 반영되는 문제가 있습니다.** <br/>
@@ -111,3 +113,5 @@ mse : [0.0003729141899384558, 0.0003729141899384558, -221.1139678955078]
 ```
 
 ![결과값](https://user-images.githubusercontent.com/22911504/159686036-95645e27-2a1d-4da2-aad2-add4cfef520e.png)
+
+{% include adsense.html %}

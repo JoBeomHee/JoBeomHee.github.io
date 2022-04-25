@@ -8,6 +8,7 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
 
 ## **DevExpress Chart 기능 POC - Annotation 표시 방법 1**
 * DevExpress Chart 중 Bar 차트에서 Line Annotation 표시 방법 POC 진행합니다.

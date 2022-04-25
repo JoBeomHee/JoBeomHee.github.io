@@ -9,6 +9,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고 사이트](https://www.idalko.com/crud-operations-postgres-jsonb/)
 

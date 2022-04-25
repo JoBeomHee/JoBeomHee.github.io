@@ -8,6 +8,8 @@ math: true
 mermaid: true
 ---
 
+{% include adsense.html %}
+
 ## **참조**
 * [참고 사이트](https://davinci-ai.tistory.com/20)
 
@@ -137,3 +139,5 @@ import numpy as np
 def relu(x):
     return np.maximum(0, x)
 ```
+
+{% include adsense.html %}
